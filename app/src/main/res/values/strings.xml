@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">YRJAtarea4</string>
+    <string name="Imagen">Logo</string>
+    <string name="Animacion">Cargar</string>
+    <string name="Info">Ingeniería en Sistemas Computacionales</string>
+    <string name="User">imguser</string>
+    <string name="Loginstring">Ingrese la contraseña</string>
+    <string name="password">pass</string>
+    <string name="Buttun">Login</string>
+    <string name="TextValidado">¡Bienvenido!</string>
+    <string name="Ingresado">Ingresaste correctamente</string>
+</resources>
